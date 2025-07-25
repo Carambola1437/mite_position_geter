@@ -1,7 +1,8 @@
 {
     "settings":{
         "float_num":2,
-        "reverse_y_z":true
+        "reverse_y_z":true,
+        "window_size":[250,100]
 
     }
 }
